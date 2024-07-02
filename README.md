@@ -1,5 +1,9 @@
 # SEMESTER_2
-Welcome to my semester 2 journey in UTM! :smile: In this semester, I am taking four core courses which is essential in my degree programme. These courses are designed to provide me with a strong foundation in my field of study, and equip me with the necessary skills and knowledge to succeed in my future career. Feel free to click on the course titles below to explore more details about each course. I'm excited to share my learning experiences and insights with you! :stars:
+Hello and welcome!😄
+
+This semester, I am excited to share my journey as I take on six courses, five of which are essential for my degree programme. Here, you'll find a showcase of my projects, assignments, and reflections on my learning experiences.
+
+Thank you for visiting, and I hope you enjoy exploring my work! 🌠
 <br/>
 <br/>
 ## [PROBABILITY AND STATISTICAL DATA ANALYSIS](https://github.com/nawwarahauni/SEMESTER_2/tree/c4e3fbade4fc66d7aa27e5076aa64cc8a361e219/Probability%20and%20Statistical%20Data%20Analysis)
